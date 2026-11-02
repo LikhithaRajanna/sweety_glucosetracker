@@ -191,20 +191,20 @@ Open the local URL displayed by Vite in your browser.
   ## Application Screenshots
 
 ### Login Page
-![Sweety Login]
+[Sweety Login]
 <img width="1902" height="907" alt="login" src="https://github.com/user-attachments/assets/8226e879-30c3-4884-b692-7f20f7bf17de" />
 
 ### Dashboard
-![Sweety Dashboard]
+[Sweety Dashboard]
 <img width="1917" height="965" alt="dashboard" src="https://github.com/user-attachments/assets/04fe8764-341b-4bdf-886d-7b9dd831adec" />
 
 ### Add Glucose Reading
-![Add Reading]
+[Add Reading]
 <img width="1830" height="887" alt="add-reading" src="https://github.com/user-attachments/assets/35452626-739f-42af-9b00-bf5345159232" />
 
 
 ### Daily and Monthly Reports
-![Sweety Reports]
+[Sweety Reports]
 <img width="1901" height="892" alt="reports" src="https://github.com/user-attachments/assets/1fd5ed38-1685-4411-af21-5d09b065fdcf" />
 <img width="1887" height="895" alt="reports2" src="https://github.com/user-attachments/assets/43745bb5-d183-4d3e-aeb3-33d1965ec1d1" />
 
